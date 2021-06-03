@@ -262,7 +262,7 @@ The next few steps will take place using the Visual Studio Code IDE and [VSCode 
 
    ![VSCode import template](./assets/map-components/import-aem-servervscode.png)
 
-4. Repeat the steps to import content but select the **policies** folder located at `/conf/wknd-spa-react/settings/wcm/templates/policies`.
+4. Repeat the steps to import content but select the **policies** folder located at `/conf/wknd-spa-react/settings/wcm/policies`.
 
 5. Inspect the `filter.xml` file located at `ui.content/src/main/content/META-INF/vault/filter.xml`.
 
