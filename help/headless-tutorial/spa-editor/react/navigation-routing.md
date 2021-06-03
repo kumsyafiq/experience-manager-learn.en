@@ -48,7 +48,7 @@ Review the required tooling and instructions for setting up a [local development
 
     Under **Allowed Components** &gt; **General** &gt; select the **Layout Container** component.
 
-    Under **Allowed Components** &gt; **WKND SPA REACT - STRUCTURE** &gt; select the **Header** component:
+    Under **Allowed Components** &gt; **WKND SPA REACT - STRUCTURE** &gt; select the **Navigation** component:
 
     ![Select Navigation component](assets/navigation-routing/select-navigation-component.png)
 
